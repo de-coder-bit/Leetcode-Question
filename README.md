@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0087-scramble-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -56,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
