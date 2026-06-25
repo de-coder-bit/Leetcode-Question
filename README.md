@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0118-pascals-triangle) |
 ## String
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
 | ------- |
