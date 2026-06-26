@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
