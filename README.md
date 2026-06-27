@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0149-max-points-on-a-line) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0149-max-points-on-a-line) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -318,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
