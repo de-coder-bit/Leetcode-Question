@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
