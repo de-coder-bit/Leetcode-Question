@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0171-excel-sheet-column-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0171-excel-sheet-column-number) |
 ## Binary Search Tree
 |  |
 | ------- |
