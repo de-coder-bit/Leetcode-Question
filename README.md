@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0179-largest-number) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0179-largest-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0179-largest-number) |
 ## Union-Find
 |  |
 | ------- |
