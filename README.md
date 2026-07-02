@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0204-count-primes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -381,4 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0185-department-top-three-salaries) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
