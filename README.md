@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0205-isomorphic-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0205-isomorphic-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
