@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0202-happy-number) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
