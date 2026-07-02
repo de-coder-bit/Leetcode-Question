@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0140-word-break-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0145-binary-tree-postorder-traversal) |
+| [0797-all-paths-from-source-to-target](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 ## Matrix
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0133-clone-graph) |
+| [0797-all-paths-from-source-to-target](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0133-clone-graph) |
+| [0797-all-paths-from-source-to-target](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 ## Recursion
 |  |
 | ------- |
