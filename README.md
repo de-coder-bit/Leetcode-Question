@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0221-maximal-square) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0221-maximal-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0221-maximal-square) |
 ## Sorting
 |  |
 | ------- |
