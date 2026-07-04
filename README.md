@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
 ## String
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0191-number-of-1-bits) |
+| [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
 ## Greedy
 |  |
 | ------- |
@@ -445,4 +448,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0214-shortest-palindrome) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
