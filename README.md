@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0214-shortest-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -427,4 +428,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
