@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
 ## Math
 |  |
 | ------- |
