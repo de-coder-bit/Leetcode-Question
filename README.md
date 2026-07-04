@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0223-rectangle-area) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0223-rectangle-area) |
 ## Iterator
 |  |
 | ------- |
