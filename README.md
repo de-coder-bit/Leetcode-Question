@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
+| [0229-majority-element-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0229-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -498,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0225-implement-stack-using-queues) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
