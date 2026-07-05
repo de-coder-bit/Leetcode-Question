@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0232-implement-queue-using-stacks) |
 ## Counting
 |  |
 | ------- |
