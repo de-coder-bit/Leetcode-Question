@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0258-add-digits) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0258-add-digits) |
 ## Topological Sort
 |  |
 | ------- |
@@ -554,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
