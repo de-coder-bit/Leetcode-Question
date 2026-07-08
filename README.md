@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
 ## Ordered Set
 |  |
 | ------- |
