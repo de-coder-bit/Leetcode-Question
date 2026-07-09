@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0275-h-index-ii) |
 ## String
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0275-h-index-ii) |
 ## Linked List
 |  |
 | ------- |
