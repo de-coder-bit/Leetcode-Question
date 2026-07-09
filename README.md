@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0274-h-index) |
 ## String
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0274-h-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -565,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0258-add-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
