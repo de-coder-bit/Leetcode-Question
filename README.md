@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
