@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0282-expression-add-operators) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0282-expression-add-operators) |
 | [0797-all-paths-from-source-to-target](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
+| [0282-expression-add-operators](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0282-expression-add-operators) |
 ## Binary Search Tree
 |  |
 | ------- |
