@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0284-peeking-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 ## String
 |  |
 | ------- |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0284-peeking-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 ## Rolling Hash
 |  |
 | ------- |
