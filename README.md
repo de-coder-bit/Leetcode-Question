@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0304-range-sum-query-2d-immutable) |
 ## String
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0304-range-sum-query-2d-immutable) |
 ## Two Pointers
 |  |
 | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0304-range-sum-query-2d-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0304-range-sum-query-2d-immutable) |
 ## Rolling Hash
 |  |
 | ------- |
