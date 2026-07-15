@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
 | [0282-expression-add-operators](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0282-expression-add-operators) |
+| [0319-bulb-switcher](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0319-bulb-switcher) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -591,4 +592,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0274-h-index) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
