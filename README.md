@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0304-range-sum-query-2d-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0318-maximum-product-of-word-lengths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 ## Matrix
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0226-invert-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 ## Hash Table
 |  |
@@ -452,12 +457,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 ## Recursion
 |  |
@@ -524,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
