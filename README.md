@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0282-expression-add-operators) |
 | [0318-maximum-product-of-word-lengths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0318-maximum-product-of-word-lengths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0234-palindrome-linked-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
