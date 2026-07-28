@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0335-self-crossing) |
 ## String
 |  |
 | ------- |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
 | [0282-expression-add-operators](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0319-bulb-switcher) |
+| [0335-self-crossing](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0335-self-crossing) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0335-self-crossing) |
 ## Iterator
 |  |
 | ------- |
