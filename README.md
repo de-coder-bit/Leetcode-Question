@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0282-expression-add-operators) |
 | [0318-maximum-product-of-word-lengths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
+| [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
