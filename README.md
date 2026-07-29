@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0338-counting-bits) |
 ## Tree
 |  |
 | ------- |
