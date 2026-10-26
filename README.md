@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0275-h-index-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Linked List
 |  |
 | ------- |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0130-surrounded-regions) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Trie
 |  |
 | ------- |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0304-range-sum-query-2d-immutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Queue
 |  |
 | ------- |
@@ -629,4 +634,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0319-bulb-switcher) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
