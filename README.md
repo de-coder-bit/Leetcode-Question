@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0282-expression-add-operators) |
+| [0357-count-numbers-with-unique-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0357-count-numbers-with-unique-digits) |
 | [0797-all-paths-from-source-to-target](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0357-count-numbers-with-unique-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0335-self-crossing) |
+| [0357-count-numbers-with-unique-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0357-count-numbers-with-unique-digits) |
 ## Binary Search Tree
 |  |
 | ------- |
