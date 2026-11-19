@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
+| [0413-arithmetic-slices](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0413-arithmetic-slices) |
 ## String
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0357-count-numbers-with-unique-digits) |
+| [0413-arithmetic-slices](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0413-arithmetic-slices) |
 ## Sorting
 |  |
 | ------- |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0413-arithmetic-slices) |
 ## Prefix Sum
 |  |
 | ------- |
