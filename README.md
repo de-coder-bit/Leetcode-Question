@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
 | [0413-arithmetic-slices](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0274-h-index) |
+| [0414-third-maximum-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
