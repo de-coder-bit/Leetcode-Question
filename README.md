@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0415-add-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0335-self-crossing) |
 | [0357-count-numbers-with-unique-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0357-count-numbers-with-unique-digits) |
+| [0415-add-strings](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0415-add-strings) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0415-add-strings) |
 ## Counting Sort
 |  |
 | ------- |
