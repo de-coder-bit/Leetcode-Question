@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
 | [0413-arithmetic-slices](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0416-partition-equal-subset-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/de-coder-bit/Leetcode-Question/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0357-count-numbers-with-unique-digits) |
 | [0413-arithmetic-slices](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0416-partition-equal-subset-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -652,4 +654,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
