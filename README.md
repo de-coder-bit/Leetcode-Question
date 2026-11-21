@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0416-partition-equal-subset-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/de-coder-bit/Leetcode-Question/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3331-find-subtree-sizes-after-changes) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0415-add-strings) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Backtracking
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0337-house-robber-iii) |
 | [0797-all-paths-from-source-to-target](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0797-all-paths-from-source-to-target) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Matrix
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0337-house-robber-iii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Divide and Conquer
 |  |
 | ------- |
