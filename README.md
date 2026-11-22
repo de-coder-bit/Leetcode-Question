@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0415-add-strings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Backtracking
 |  |
