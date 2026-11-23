@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0416-partition-equal-subset-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/de-coder-bit/Leetcode-Question/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/de-coder-bit/Leetcode-Question/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3331-find-subtree-sizes-after-changes) |
 ## String
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0335-self-crossing) |
 | [0357-count-numbers-with-unique-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0357-count-numbers-with-unique-digits) |
 | [0415-add-strings](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0415-add-strings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/de-coder-bit/Leetcode-Question/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0304-range-sum-query-2d-immutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/de-coder-bit/Leetcode-Question/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0304-range-sum-query-2d-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/de-coder-bit/Leetcode-Question/tree/master/1352-product-of-the-last-k-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/de-coder-bit/Leetcode-Question/tree/master/1352-product-of-the-last-k-numbers) |
 ## Knapsack Problem
 |  |
 | ------- |
