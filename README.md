@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/de-coder-bit/Leetcode-Question/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/de-coder-bit/Leetcode-Question/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0357-count-numbers-with-unique-digits) |
 | [0415-add-strings](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0415-add-strings) |
 | [1352-product-of-the-last-k-numbers](https://github.com/de-coder-bit/Leetcode-Question/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -575,11 +577,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Topological Sort
 |  |
 | ------- |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0413-arithmetic-slices) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
