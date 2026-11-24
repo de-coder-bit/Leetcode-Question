@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/de-coder-bit/Leetcode-Question/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/de-coder-bit/Leetcode-Question/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0338-counting-bits) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Divide and Conquer
 |  |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Memoization
 |  |
 | ------- |
