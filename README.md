@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/de-coder-bit/Leetcode-Question/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0275-h-index-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0336-palindrome-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3934-smallest-unique-subarray) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -682,4 +687,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0416-partition-equal-subset-sum) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
