@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0357-count-numbers-with-unique-digits) |
 | [0415-add-strings](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0415-add-strings) |
 | [1352-product-of-the-last-k-numbers](https://github.com/de-coder-bit/Leetcode-Question/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search Tree
 |  |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0415-add-strings) |
+| [3360-stone-removal-game](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3360-stone-removal-game) |
 ## Counting Sort
 |  |
 | ------- |
