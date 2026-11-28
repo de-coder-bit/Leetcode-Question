@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3934-smallest-unique-subarray) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0414-third-maximum-number) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/de-coder-bit/Leetcode-Question/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0334-increasing-triplet-subsequence) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/de-coder-bit/Leetcode-Question/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/0264-ugly-number-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/de-coder-bit/Leetcode-Question/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Ordered Set
 |  |
 | ------- |
